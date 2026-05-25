@@ -12,4 +12,4 @@ Implementasi Migration, Seeder, Accessor, dan Scope pada Laravel.
 ![Seeder](screenshots/seeder.png)
 
 ### Route Testing
-![Route Testing](screenshots/route-testing.png)
+![Route Testing](screenshots/route-testing.jpeg)
